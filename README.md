@@ -1,6 +1,15 @@
 ## Type B QPO seen from MAXI J1820.
 
 For the mean spectrum fit model and parameters please see the [wiki](https://github.com/davis191/J1820_RNAAS/wiki).
+The full abstract and introduction are below. Due to a strict word limit, we had to cut much of introduction out of our publication.
+
+## Abstract
+Black hole X-ray binaries are known to exhibit variability in their light curves on timescales as short as milliseconds to as long as months.
+The short-timescale variability can be in the form of quasi-periodic oscillations (QPOs), which may be produced by general relativistic effects.
+In this work, we looked at low-frequency QPOs from an exciting recent black hole transient, MAXI J1820+070, which first went into outburst in 2018. 
+This source was observed in a multi-wavelength campaign that included the *NICER* mission, a soft X-ray telescope attached to the International Space Station. 
+In our analysis, we applied X-ray timing and spectral-timing techniques to help place constraints on the QPO emission mechanism in the extreme environment surrounding the black hole.
+Although the QPO amplitude was too low to carry out phase-resolved spectroscopy, our work indicates that weak QPOs such as this one may be present in the light curves of many sources. 
 
 ## Introduction
 MAXI J1820+070, hereafter J1820, is a low-mass X-ray binary (LMXB) that likely contains a stellar black hole {Torres_2019}. 
